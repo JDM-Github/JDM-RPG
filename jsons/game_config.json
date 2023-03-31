@@ -1,0 +1,16 @@
+{
+    "GameZoom": 4,
+    "BlockSize": 16,
+    "NPC": {
+        "Width": 16,
+        "Height": 32
+    },
+    "MapConfig": {
+        "CurrentMap": "01",
+        "CurrentIndex": "00",
+        "CurrentMapWidth": null,
+        "CurrentMapHeight": null,
+        "CurrentPlayerX": 3,
+        "CurrentPlayerY": 3
+    }
+}

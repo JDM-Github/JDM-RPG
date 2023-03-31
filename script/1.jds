@@ -1,0 +1,8 @@
+import "jsons/game_events.json" as game
+@START: test
+
+@JDS test
+    message ("TEST") normal
+    waitmsg
+    exit
+@end
